@@ -7,7 +7,7 @@ export class index extends Component {
         <div class='container'>
           <div class='row'>
             <div class='span12'>
-              <p class='copy'>&copy; Copyright 2020, WolfBerry</p>
+              <p class='copy'>&copy; Copyright2020, WolfBerry20</p>
             </div>
           </div>
         </div>
